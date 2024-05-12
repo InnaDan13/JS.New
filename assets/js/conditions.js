@@ -8,3 +8,8 @@ const a = 1;
 const b = 10;
 console.log(`${a} + ${b} = ${a+b}`);
 
+const isOnline = true;
+
+if (isOnline){
+    
+}
